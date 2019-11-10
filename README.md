@@ -4,6 +4,7 @@ instlasi git
 -dowload git, buka website resminya git (git-scm.com)
 -kemudian unduh git sesuai dengan aarsitektur komputer kita. kalau menggunakan 64 bit,unduh yang 64 bit. begitu juga kalau menggunakan32 bit.
 -selamat,git sudah terital di windows. untuk mencobanya, silahakan buka cmd atau power shell, kemudian ketik perintah git --version.berikut tampilan nya:
+
 ![](screenshot/langkah%201.jpg)
 
 menambahkan global config
@@ -78,4 +79,4 @@ $ git push -u origin master
 melihat hasilnya pada server repository
 -buka lama github.com, arahkan pada repisitorynya
 -maka perubahan akan terlihat pada laman tersebut
-![](screenshot/langkah%2012.jpg)
+![](screenshot/langakah%2012.jpg)
